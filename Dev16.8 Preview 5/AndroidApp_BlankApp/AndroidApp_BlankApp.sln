@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30615.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidApp_BlankApp", "AndroidApp_BlankApp\AndroidApp_BlankApp.csproj", "{DB6CD3F5-EAF7-4D60-A5E9-03CB38BF0B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6CD3F5-EAF7-4D60-A5E9-03CB38BF0B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6CD3F5-EAF7-4D60-A5E9-03CB38BF0B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6CD3F5-EAF7-4D60-A5E9-03CB38BF0B0E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DB6CD3F5-EAF7-4D60-A5E9-03CB38BF0B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6CD3F5-EAF7-4D60-A5E9-03CB38BF0B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6CD3F5-EAF7-4D60-A5E9-03CB38BF0B0E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {475D70AB-5DCE-496E-864A-45F65634A772}
+	EndGlobalSection
+EndGlobal
