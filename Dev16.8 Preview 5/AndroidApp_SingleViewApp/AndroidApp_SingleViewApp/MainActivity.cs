@@ -9,6 +9,7 @@ using Android.Widget;
 
 namespace AndroidApp_SingleViewApp
 {
+    //ninatestonmain
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
