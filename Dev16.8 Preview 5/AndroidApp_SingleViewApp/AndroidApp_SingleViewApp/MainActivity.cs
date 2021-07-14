@@ -9,6 +9,7 @@ using Android.Widget;
 
 namespace AndroidApp_SingleViewApp
 {
+   //ninateat on ninatestbranches
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
@@ -41,7 +42,7 @@ namespace AndroidApp_SingleViewApp
 
             return base.OnOptionsItemSelected(item);
         }
-        //asdasdasdasdddd
+       
 
         private void FabOnClick(object sender, EventArgs eventArgs)
         {
