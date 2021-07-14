@@ -24,7 +24,7 @@ namespace AndroidApp_SingleViewApp
             FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
             fab.Click += FabOnClick;
         }
-
+        
         public override bool OnCreateOptionsMenu(IMenu menu)
         {
             MenuInflater.Inflate(Resource.Menu.menu_main, menu);
@@ -41,6 +41,7 @@ namespace AndroidApp_SingleViewApp
 
             return base.OnOptionsItemSelected(item);
         }
+        //asdasdasdasdddd
 
         private void FabOnClick(object sender, EventArgs eventArgs)
         {
@@ -55,5 +56,6 @@ namespace AndroidApp_SingleViewApp
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
+        
 	}
 }
